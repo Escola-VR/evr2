@@ -218,10 +218,10 @@ F | E | F | **F**
 
 Operando | Operador | Operando | Resultado
 :--: | :--: | :--: | :--:
-V | E | V | **V**
-V | E | F | **V**
-F | E | V | **V**
-F | E | F | **F**
+V | OU | V | **V**
+V | OU | F | **V**
+F | OU | V | **V**
+F | OU | F | **F**
 
 ## TABELA VERDADE OPERADOR [XOU]
 
@@ -229,10 +229,10 @@ F | E | F | **F**
 
 Operando | Operador | Operando | Resultado
 :--: | :--: | :--: | :--:
-V | E | V | **F**
-V | E | F | **V**
-F | E | V | **V**
-F | E | F | **F**
+V | XOU | V | **F**
+V | XOU | F | **V**
+F | XOU | V | **V**
+F | XOU | F | **F**
 
 
 ## TABELA VERDADE OPERADOR [NAO]
