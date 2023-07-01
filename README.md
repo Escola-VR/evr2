@@ -23,3 +23,4 @@ Aula | Conteúdo
 02 | [Work in progress - Aula 02]()
 03 | [Work in progress - Aula 03]()
 04 | [Tipos de dados e Expressões](aulas/aula4.md)
+05 | [Exercício - Tipos de dados e Expressões](aulas/aula5.md)
