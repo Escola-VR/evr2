@@ -31,13 +31,13 @@ ID | Descrição | Solução
 8 | Utilizando os comandos de saída de dados exiba as `ilustrações` abaixo. | [WIP]()
 
 ```
-/******************************************************/
-/* P . r . o . g . r . amar  é  M . Á . X . I . M . O */
-/******************************************************/
+/*******************************************************/
+/* P . r . o . g . r . amar  é o M . Á . X . I . M . O */
+/*******************************************************/
 ```
 
 ```
-                        .-"""-.
+                        .-'''-.
                        / .===. \
                        \/ 6 6 \/
                        ( \___/ )
@@ -85,6 +85,7 @@ ID | Descrição | Solução
 -- | -- | --
 1 | Receber um valor exibir o seu antecessor e o seu sucessor | [WIP]()
 2 | Receber 2 valores x e y, então exiba-os; a seguir realizar a troca dos valores de x e y e exibir novamente x e y.| [WIP]()
+3 | **Este será o último é é opcional**. Criar o algoritmo interativo listando os algoritmos modo simples de resolução do `Cubo Rubik 3 X 3`.
 4 | Receber um valor, calcular e exibir o dobro do valor recebido | [WIP]()
 5 | Receber um valor, calcular e exibir o dobro, o triplo, o quádruplo e o quintuplo do valor recebido | [WIP]()
 6 | Receber dois valores e efetuar as quatro operações matemáticas elementares, soma, subtração, multiplicação e divisão do primeiro valor recebido pelo segundo. Exibir o resultado das quatro operações realizadas. | [WIP]()
