@@ -21,14 +21,14 @@ escreval("Meu nome é ",nome, " eu tenho ", idade, " anos.")
 
 ID | Descrição | Solução
 -- | -- | --
-1 | Só aprenderei Lógica de Programação fazendo todos os algoritmos!!!! | [WIP]()
-1 | Imprimir seu nome completo. | [WIP]()
-2 | Imprimir a soma entre 10 e 15. | [WIP]()
-3 | Imprimir o produto entre 23 e 45. | [WIP]()
-4 | Imprimir a diferença entre 45 e 15. | [WIP]()
-5 | Imprimir o resultado da divisao de 10 por 3. | [WIP]()
-6 | Imprimir o resto da divisao de 10 por 3. | [WIP]()
-7 | Utilizando os comandos de saída de dados exiba as `ilustrações` abaixo. | [WIP]()
+1 | Imprimir Só aprenderei Lógica de Programação fazendo todos os algoritmos!!!! | [WIP]()
+2 | Imprimir seu nome completo. | [WIP]()
+3 | Imprimir a soma entre 10 e 15. | [WIP]()
+4 | Imprimir o produto entre 23 e 45. | [WIP]()
+5 | Imprimir a diferença entre 45 e 15. | [WIP]()
+6 | Imprimir o resultado da divisao de 10 por 3. | [WIP]()
+7 | Imprimir o resto da divisao de 10 por 3. | [WIP]()
+8 | Utilizando os comandos de saída de dados exiba as `ilustrações` abaixo. | [WIP]()
 
 ```
 /******************************************************/
@@ -84,7 +84,7 @@ escreval("Desconto informado R$ ", descontos:2)
 ID | Descrição | Solução
 -- | -- | --
 1 | Receber um valor exibir o seu antecessor e o seu sucessor | [WIP]()
-2 | Receber 2 valores x e y, então exiba-os; a seguir realizar a troca dos valores de x e y e exibir novamente x e 3.| [WIP]()
+2 | Receber 2 valores x e y, então exiba-os; a seguir realizar a troca dos valores de x e y e exibir novamente x e y.| [WIP]()
 4 | Receber um valor, calcular e exibir o dobro do valor recebido | [WIP]()
 5 | Receber um valor, calcular e exibir o dobro, o triplo, o quádruplo e o quintuplo do valor recebido | [WIP]()
 6 | Receber dois valores e efetuar as quatro operações matemáticas elementares, soma, subtração, multiplicação e divisão do primeiro valor recebido pelo segundo. Exibir o resultado das quatro operações realizadas. | [WIP]()
