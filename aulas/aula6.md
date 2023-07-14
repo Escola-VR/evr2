@@ -13,13 +13,15 @@ Como discutimos em sala de aula; as estruturas de controle nos permitem dar o co
 
 Na estrutura de controle simples nós podemos aplicar o desconto caso a idade do usuário tenha 60 anos ou mais; note que caso o usuario tenha menos de 60 anos nenhuma ação é executada.
 
+> Os exemplos abaixo estão utilizando o diagrama de blocos para melhor visualização dos fluxos condicionais das estruturas de controle. Foi nexessário adaptar os simbolos de exibição no mermaid-js, o mermaid-js pemite a criação de diagramas em arquivos .md (markdown) no github; utilizaremos o paraleograma como entrada de dados e a "bandeira" como saída de dados em substituição às formas geométricas padronizadas do diagrama de blocos apresentadas em sala de aula.
+
 ```mermaid
 flowchart TB
     in([Inicio])
     a1[valor_ingresso <- 28.0]
     s1>Digite sua idade para validar desconto no cinema:]
     e1[/IDADE/]
-    d1{A >= 60}
+    d1{IDADE >= 60}
     s2>Voce esta na melhor idade! Ganhou 50% de desconto]
     p1[valor_ingresso <- valor_ingresso * 0.5]
     s3>valor_do_ingresso]
@@ -53,7 +55,7 @@ flowchart TB
     a1[valor_ingresso <- 28.0]
     s1>Digite sua idade para validar desconto no cinema:]
     e1[/IDADE/]
-    d1{A >= 60}
+    d1{IDADE >= 60}
     s2>Voce esta na melhor idade! Ganhou 50% de desconto]
     p1[valor_ingresso <- valor_ingresso * 0.5]
     s3>valor_do_ingresso]
@@ -93,27 +95,34 @@ flowchart TB
     a1[valor_ingresso <- 28.0]
     s1>Digite sua idade para validar desconto no cinema:]
     e1[/IDADE/]
-    d1{A >= 60}
+    d1{IDADE >= 60}
     s2>Voce esta na melhor idade! Ganhou 50% de desconto]
     p1[valor_ingresso <- valor_ingresso * 0.5]
     s3>valor_do_ingresso]
     s4>Desconto apenas para amelhor idade! Mas voce possui cartão Platinum?]
     e2[/CARTAO/]
     d2{CARTAO = PLATINUM}
+    e3[/RESP/]
+    d3{Sim/Não?}
     p2[valor_ingresso <- valor_ingresso * 0.6]
     c1(( ))
     c2(( ))
+    c3(( ))
     in --> a1
     a1 --> s1
     s1 --> e1
     e1 --> d1
     d1 --F--> s4
-    s4 --> e2
+    s4 --> e3
+    e3 --> d3
+    d3 --V--> e2
+    d3 --F--> c3
     e2 --> d2
+    d2 --F--> c2
     d2 --V--> p2
     p2 --> c2
-    c2 --> c1
-    d2 --F--> c2
+    c2 --> c3
+    c3 --> c1
     d1 --V--> p1
     p1 --> s2
     s2 --> c1
@@ -122,11 +131,15 @@ flowchart TB
     fn([Fim])
 ```
 
-# Desafio 
+# Desafio Algoritmo
 
-Consegue implementar em pseudocódigo? 
+Consegue implementar o fuxo encadeado em **pseudocódigo**? 
 
-> I know Kung Fu. Neo
+### Desafio Geek
 
-> Show me. Morpheus
+De que filme vem este diálogo?
+
+> "I know Kung Fu".
+> "Show me".
+
 
