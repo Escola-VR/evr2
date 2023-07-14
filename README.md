@@ -25,3 +25,4 @@ Aula | Conteúdo
 04 | [Tipos de dados e Expressões](aulas/aula4.md)
 05 | [Exercício - Tipos de dados e Expressões](aulas/aula5.md)
 06 | [Estruturas de Controle](aulas/aula6.md)
+07 | [Exercício - Tipos de dados e Expressões](aulas/aula7.md)
