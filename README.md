@@ -24,3 +24,4 @@ Aula | Conteúdo
 03 | [Work in progress - Aula 03]()
 04 | [Tipos de dados e Expressões](aulas/aula4.md)
 05 | [Exercício - Tipos de dados e Expressões](aulas/aula5.md)
+06 | [Estruturas de Controle](aulas/aula6.md)
