@@ -6,14 +6,14 @@
 
 ID | Descrição | Solução
 -- | -- | --
-1 | Desenvolva um algoritmo que receba dois valore e informe, se o primeiro é maior que o segundo, se o segundo é maior que o primeiro ou se os dois são iguais. | [WIP]()
-2 | Desenvolva um algoritmo que receba um valor via teclado e defina se o valor recebido é par ou ímpar. | [WIP]()
-3 | Receber um valor e exibir se é divisível por 2 e 3. | [WIP]()
+1 | Desenvolva um algoritmo que receba dois valore e informe, se o primeiro é maior que o segundo, se o segundo é maior que o primeiro ou se os dois são iguais. | [EX_EC_01](../resources/entrega2/EX_EC_01.ALG)
+2 | Desenvolva um algoritmo que receba um valor via teclado e defina se o valor recebido é par ou ímpar. | [EX_EC_02](../resources/entrega2/EX_EC_02.ALG)
+3 | Receber um valor e exibir se é divisível por 2 e 3. | [EX_EC_03](../resources/entrega2/EX_EC_03.ALG)
 5 | Desenvolva um algoritmo que receba três valores via teclado e defina e exiba o maior valor recebido dentre os três. | [WIP]()
-6 | Desenvolva um algoritmo que receba três valores via teclado e defina e exiba o menor valor recebido dentre os três. | [WIP]()
+6 | Desenvolva um algoritmo que receba três valores via teclado e defina e exiba o menor valor recebido dentre os três. | [EX_EC_05](../resources/entrega2/EX_EC_05.ALG)
 7 | Elaborar um programa que efetue a leitura de um valor que esteja entre a faixa de 1 a 9. Após a leitura do valor fornecido pelo usuário, o programa  everá indicar uma de duas mensagens: "O valor está na faixa permitida", caso o usuário forneça o valor nesta faixa, ou a mensagem "O valor está fora da  faixa permitida", caso o usuário forneça valores menores que 1 ou maiores que 9. | [WIP]()
-8 | Desenvolva um algoritmo que receba três valores e exiba-os em ordem crescente. | [WIP]()
-9 | Desenvolva um algoritmo que receba um caracter e informe se é vogal, consoante ou algarismo. | [WIP]()
+8 | Desenvolva um algoritmo que receba três valores e exiba-os em ordem crescente. | [EX_EC_08](../resources/entrega2/EX_EC_08.ALG)
+9 | Desenvolva um algoritmo que receba um caracter e informe se é vogal, consoante ou algarismo. | [EX_EC_09](../resources/entrega2/EX_EC_09.ALG)
 10 | Receber três valores, informar se estes formam um triângulo. A regra para definir se os três valores referentes aos lados do triângulo é, cada um dos  três lados deve ser menor que a soma dos dois lados adjacentes. Caso formem um triângulo, exibir o tipo, equilátero (três lados iguais), isósceles  (dois dos três lados iguais) ou escaleno(três lados diferentes). Exibir uma mensagem caso não forme triângulo. | [WIP]()
 11 | Receber o nome e as 4 notas de um aluno e a quantidade de faltas e então, calcule a sua média e defina o seu status mediante as seguintes regras. Para estar aprovado o aluno deve ter uma media maior que 7, ou igual. Para estar em exame, a média tem que estar entre 5 e ser menor que 7. Para estar reprovado o aluno deve ter a média menor que 5. O aluno que tiver mais do que 60 faltas estará reprovado, independente de sua média. Exibir o nome, a quantidade de faltas e o status do aluno. | [WIP]()
 12 | Crie um algoritmo que, dada uma temperatura em graus celsius, exiba uma mensagem informando o tipo do clima, de acordo com as seguintes condições: se a temperatura estiver até 18 graus, o clima é frio; se a temperatura estiver entre 19 e 23 graus, o clima é agradável; se a temperatura estiver entre 23 e 35 graus, o clima é quente; se a temperatura estiver acima de 35 graus, o clima é muito quente. | [WIP]()
