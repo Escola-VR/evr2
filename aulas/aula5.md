@@ -21,13 +21,13 @@ escreval("Meu nome é ",nome, " eu tenho ", idade, " anos.")
 
 ID | Descrição | Solução
 -- | -- | --
-1 | Imprimir Só aprenderei Lógica de Programação fazendo todos os algoritmos!!!! | [WIP]()
-2 | Imprimir seu nome completo. | [WIP]()
-3 | Imprimir a soma entre 10 e 15. | [WIP]()
-4 | Imprimir o produto entre 23 e 45. | [WIP]()
-5 | Imprimir a diferença entre 45 e 15. | [WIP]()
-6 | Imprimir o resultado da divisao de 10 por 3. | [WIP]()
-7 | Imprimir o resto da divisao de 10 por 3. | [WIP]()
+1 | Imprimir Só aprenderei Lógica de Programação fazendo todos os algoritmos!!!! | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
+2 | Imprimir seu nome completo. | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
+3 | Imprimir a soma entre 10 e 15. | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
+4 | Imprimir o produto entre 23 e 45. | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
+5 | Imprimir a diferença entre 45 e 15. | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
+6 | Imprimir o resultado da divisao de 10 por 3. | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
+7 | Imprimir o resto da divisao de 10 por 3. | [EX_EA_01_A_07](../resources/entrega1/warming_up/EX_EA_01_A_07.ALG)
 8 | Utilizando os comandos de saída de dados exiba as `ilustrações` abaixo. | [WIP]()
 
 ```
@@ -83,12 +83,12 @@ escreval("Desconto informado R$ ", descontos:2)
 
 ID | Descrição | Solução
 -- | -- | --
-1 | Receber um valor exibir o seu antecessor e o seu sucessor | [WIP]()
-2 | Receber 2 valores x e y, então exiba-os; a seguir realizar a troca dos valores de x e y e exibir novamente x e y.| [WIP]()
-3 | **Este será o último é é opcional**. Criar o algoritmo interativo listando os algoritmos modo simples de resolução do `Cubo Rubik 3 X 3`.
-4 | Receber um valor, calcular e exibir o dobro do valor recebido | [WIP]()
-5 | Receber um valor, calcular e exibir o dobro, o triplo, o quádruplo e o quintuplo do valor recebido | [WIP]()
-6 | Receber dois valores e efetuar as quatro operações matemáticas elementares, soma, subtração, multiplicação e divisão do primeiro valor recebido pelo segundo. Exibir o resultado das quatro operações realizadas. | [WIP]()
+1 | Receber um valor exibir o seu antecessor e o seu sucessor | [EX_EA_01](../resources/entrega1/EX_EA_01.ALG)
+2 | Receber 2 valores x e y, então exiba-os; a seguir realizar a troca dos valores de x e y e exibir novamente x e y.| [EX_EA_01](../resources/entrega1/EX_EA_2.ALG)
+3 | **Este será o último é é opcional**. Criar o algoritmo interativo listando os algoritmos modo simples de resolução do `Cubo Rubik 3 X 3`. [EX_EA_04](../resources/entrega1/EX_EA_4_5.ALG)
+4 | Receber um valor, calcular e exibir o dobro do valor recebido | [EX_EA_04](../resources/entrega1/EX_EA_4_5.ALG)
+5 | Receber um valor, calcular e exibir o dobro, o triplo, o quádruplo e o quintuplo do valor recebido | [EX_EA_05](../resources/entrega1/EX_EA_4_5.ALG)
+6 | Receber dois valores e efetuar as quatro operações matemáticas elementares, soma, subtração, multiplicação e divisão do primeiro valor recebido pelo segundo. Exibir o resultado das quatro operações realizadas. | [EX_EA_06](../resources/entrega1/EX_EA_6.ALG)
 7 | Crie um algoritmo que calcule a área de um retângulo. | [WIP]()
 8 | Crie um algoritmo que calcule a área de um circulo. | [WIP]()
 9 | Crie um algoritmo que calcule a área de um triângulo. | [WIP]()
@@ -96,10 +96,10 @@ ID | Descrição | Solução
 11 | Crie um algoritmo que calcule a área de um losango. | [WIP]()
 12 | Lembra do problemas dos vestidos? Três senhoras: Dona Rosa, Dona Branca e Dona Violeta. Se encontram num parque e Dona Rosa diz: - Não é curioso que estejamos usando vestidos de cores branca, rosa e violeta, embora nenhuma de nós esteja usando um vestido igual ao nosso próprio nome? - Uma simples coincidência - respondeu a senhora com o vestido violeta. Qual a cor do vestido de cada senhora? Você deve rescrever sua solução em pseudocódigo e criar uma expressão no final que valide sua lógica.  Como assim? A expressão deve validar a regra implicíta dos vestidos. | [WIP]()
 13 | Transcreva as seguintes expressões aritméticas para execução em computadores e exiba o resultado. <br>**{21 + [7 x (33 - 22) - 50] : (9 . 3)} : 11 + 8** <br>**102 : 52 + 30 . 22 - 23**<br>**122 - [42 + 3 . (102 - 82)] + (32 + 23 - 1) : 4**  | [WIP]()
-14 | Solicitar ao usuário o valor e calcular e exibir 30% do valor recebido. | [WIP]()
-15 | Solicitar ao usuário o valor de seu salário atual, solicitar também uma porcentagem de aumento de salário almejada. Após efetuar os cálculos, exibir o valor do acréscimo e o novo salário acrescido do aumento desejado. | [WIP]()
+14 | Solicitar ao usuário o valor e calcular e exibir 30% do valor recebido. | [EX_EA_14](../resources/entrega1/EX_EA_14.ALG)
+15 | Solicitar ao usuário o valor de seu salário atual, solicitar também uma porcentagem de aumento de salário almejada. Após efetuar os cálculos, exibir o valor do acréscimo e o novo salário acrescido do aumento desejado. | [EX_EA_15](../resources/entrega1/EX_EA_15.ALG)
 16 | Receber um valor referente a um salário mínimo. Efetuar o calculo para seu salário liquido, abater 8% de Inss, 11% de imposto de renda. Exibir os descontos e o salário liquido.  | [WIP]()
 17 | Crie um algoritmo que realize conversões cambiais adotando o dólar a R$ 5,50, o  euro a R$ 5,70 e o peso argentino a R$ 0,27. O algoritmo deve receber uma quantia em Real Brasileiro e informar as quantias de moeda estrangeira que se pode pode comprar com a quantia recebida. | [WIP]()
 18 | Faça um algoritmo que leia a idade de uma pessoa expressa em anos, meses e dias e escreva a idade dessa pessoa expressa apenas em dias. Considerar ano com 365 dias e mês com 30 dias. | [WIP]()
 19 | O custo de um carro novo ao consumidor é a soma do custo de fábrica com a porcentagem do distribuidor e dos impostos (aplicados ao custo de fábrica). Supondo que o percentual do distribuidor seja de 28% e os impostos de 45%, escrever um algoritmo para ler o custo de fábrica de um carro, calcular e escrever o custo final ao consumidor. | [WIP]()
-20 |  Em uma eleição sindical concorreram ao cargo de presidente três candidatos (A, B e C). Durante a apuração dos votos foram computados votos nulos e votos em branco, além dos votos válidos para cada candidato. Deve ser criado um algoritmo de computador que efetue a leitura da quantidade de votos válidos para cada candidato, além de efetuar também a leitura da quantidade de votos nulos e votos em branco. Ao final o programa deve apresentar o número total de eleitores, considerando votos válidos, nulos e em branco; o percentual correspondente de votos válidos em relação à quantidade de eleitores; o percentual correspondente de votos válidos do candidato A em relação à quantidade de eleitores; o percentual correspondente de votos válidos do candidato B em relação à quantidade de eleitores; o percentual correspondente de votos válidos do candidato C em relação à quantidade de eleitores; o percentual correspondente de votos nulos em relação à quantidade de eleitores; e por último o percentual correspondente de votos em branco em relação à quantidade de eleitores.  | [WIP]()
+20 |  Em uma eleição sindical concorreram ao cargo de presidente três candidatos (A, B e C). Durante a apuração dos votos foram computados votos nulos e votos em branco, além dos votos válidos para cada candidato. Deve ser criado um algoritmo de computador que efetue a leitura da quantidade de votos válidos para cada candidato, além de efetuar também a leitura da quantidade de votos nulos e votos em branco. Ao final o programa deve apresentar o número total de eleitores, considerando votos válidos, nulos e em branco; o percentual correspondente de votos válidos em relação à quantidade de eleitores; o percentual correspondente de votos válidos do candidato A em relação à quantidade de eleitores; o percentual correspondente de votos válidos do candidato B em relação à quantidade de eleitores; o percentual correspondente de votos válidos do candidato C em relação à quantidade de eleitores; o percentual correspondente de votos nulos em relação à quantidade de eleitores; e por último o percentual correspondente de votos em branco em relação à quantidade de eleitores.  | [EX_EA_20](../resources/entrega1/EX_EA_20.ALG)
