@@ -26,3 +26,4 @@ Aula | Conteúdo
 05 | [Exercício - Tipos de dados e Expressões](aulas/aula5.md)
 06 | [Estruturas de Controle](aulas/aula6.md)
 07 | [Exercícios - Estruturas de Controle](aulas/aula7.md)
+10 | [Resumo/Desafios - Estruturas de Repetição](aulas/aula10.md)
