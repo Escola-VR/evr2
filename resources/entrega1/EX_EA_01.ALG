@@ -1,18 +1,19 @@
 Algoritmo "EX_EA_01"
-// Disciplina   : [Lógica de Programação]
+// Disciplina   : [Lï¿½gica de Programaï¿½ï¿½o]
 // Professor   : Esdras Bezerra da Silva
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : Nome do(a) aluno(a)
 // Data atual  : 23/7/2023
 Var
-   // Seção de Declarações das variáveis
+   // Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis
 
    valor, antecessor, sucessor: inteiro
 Inicio
-   // Seção de Comandos, procedimento, funções, operadores, etc...
+   // Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc...
 
    escreval("Digite um valor: ")
    leia(valor)
+   pausa
    antecessor <- valor -1
    sucessor <- valor + 1
 
