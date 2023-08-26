@@ -28,3 +28,4 @@ Aula | Conteúdo
 07 | [Exercícios - Estruturas de Controle](aulas/aula7.md)
 10 | [Resumo/Desafios - Estruturas de Repetição](aulas/aula10.md)
 11 | [Exercício - Estruturas de Repetição](aulas/aula11.md)
+13 | [Exercício - Vetores (Matrizes de 1 dimensão)](aulas/aula13.md)
