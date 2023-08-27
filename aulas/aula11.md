@@ -18,7 +18,7 @@ ID | Descrição | Solução
 10 | Escreva um programa que apresente a seqüência de Fibonacci até o décimo quinto termo.| [EX_ER_10](../resources/entrega3/EX_ER_10.ALG)
 11 | Apresentar o total da soma obtida dos cem primeiros números inteiros (1+2+3+4+...+98+99+100)| [WIP](../resources/entrega3/resolucao.ALG)
 12 | Elaborar um programa que apresente no final o somatório dos valores pares existentes na faixa de 1 até 500.| [WIP](../resources/entrega3/resolucao.ALG)
-13 | Elaborar um programa que apresente os valores de conversão de graus Celsius em Fahrenheit, de 10 em 10 graus, iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius. O programa deve apresentar os valores das duas temperaturas. A fórmula de conversão é F = 9C + 160 , sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.| [WIP](../resources/entrega3/resolucao.ALG)
+13 | Elaborar um programa que apresente os valores de conversão de graus Celsius em Fahrenheit, de 10 em 10 graus, iniciando a contagem em 10 graus Celsius e finalizando em 100 graus Celsius. O programa deve apresentar os valores das duas temperaturas. A fórmula de conversão é F = (C * 9/5) + 32 , sendo F a temperatura em Fahrenheit e C a temperatura em Celsius.| [WIP](../resources/entrega3/resolucao.ALG)
 14 | Receber um valor e calcular e exibir o Fatorial do valor recebido.| [WIP](../resources/entrega3/resolucao.ALG)
 15 | Receber um valor e definir se este valor é primo.| [WIP](../resources/entrega3/resolucao.ALG)
 16 | Receber dois valores distintos e reproduzir o algoritmo de Euclides (Cálculo do MDC, máximo divisor comum)| [WIP](../resources/entrega3/resolucao.ALG)
