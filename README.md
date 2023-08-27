@@ -29,3 +29,4 @@ Aula | Conteúdo
 10 | [Resumo/Desafios - Estruturas de Repetição](aulas/aula10.md)
 11 | [Exercício - Estruturas de Repetição](aulas/aula11.md)
 13 | [Exercício - Vetores (Matrizes de 1 dimensão)](aulas/aula13.md)
+13 | [Algoritmos de exemplo - Matrizes de 2 dimensões](resources/vetores)
